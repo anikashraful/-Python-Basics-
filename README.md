@@ -1,20 +1,24 @@
 # -Python-Basics-
 
-Goal: Write simple programs, understand syntax, and use built-in data types.
+**Goal:** 
+
+Write simple programs, understand syntax, and use built-in data types.
 
 
-#🔹 Concepts:
+**#🔹 Concepts:**
 
 
--Syntax & Structure: Indentation, comments, print(), input()
+**-Syntax & Structure:**
+    
+  -Indentation, comments, print(), input()
 
--Variables & Data Types:
+**-Variables & Data Types:**
   
   -Integers, floats, strings, booleans
   
   -Type conversion (int(), str(), etc.)
 
--Operators:
+**-Operators:**
   
   -Arithmetic (+, -, *, /, %, **)
   
@@ -22,13 +26,13 @@ Goal: Write simple programs, understand syntax, and use built-in data types.
   
   -Logical (and, or, not)
 
--Control Flow:
+**-Control Flow:**
   
   -if, elif, else
   
   -Ternary operator
 
--Loops:
+**-Loops:**
   
   -for loops (with range(), strings, lists)
   
@@ -36,13 +40,13 @@ Goal: Write simple programs, understand syntax, and use built-in data types.
   
   -break, continue, pass
 
--Basic String Operations:
+**-Basic String Operations:**
   
   -Concatenation, slicing, formatting (f-strings, .format())
 
-✅ Practice Projects:
-  -
-  Calculator
+**✅ Practice Projects:**
+  
+  -Calculator
   
   -Number guessing game
   
